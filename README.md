@@ -1,6 +1,3 @@
-# url-shortener-dio
-encurtador de URL com Node + Typescript e MongoDB 
-
 ### Encurtador de URL
 
 construção de um encurtador de URL realizado com o curso da [DIO](https://digitalinnovation.one/)
